@@ -2,8 +2,7 @@
 
 Project website for our paper on perception-aware safe 3D leader–follower formation control for multi-UAV systems.
 
-- **Live site:** https://research.noelsadventure.my.id
-- **Source repo:** https://github.com/NAIL-UH/perceptionAware3DFollower.github.io
+- **Site:** https://nail-uh.github.io/3d-leader-follower-cbf.github.io/
 
 ## Authors
 
